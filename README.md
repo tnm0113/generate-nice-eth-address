@@ -4,7 +4,7 @@ Tool generate nice eth address with user desired ending string.
 
 ## Features
 
--   Generate nice ending eth address, eg: 0x...666, 0x...888
+-   Generate nice ending eth address, eg: 0x...666, 0x...888, the longer ending string you need, the longer time the tool run
 
 ## Installing
 
