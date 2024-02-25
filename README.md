@@ -1,10 +1,8 @@
 # GENERATE NICE ETH ADDRESS
 
----
-
 Tool generate nice eth address with user desired ending string.
 
-**Features**
+## Features
 
 -   Generate nice ending eth address, eg: 0x...666, 0x...888
 
