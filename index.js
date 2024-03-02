@@ -5,6 +5,7 @@ function generate(postfix) {
     let seedResult = "";
     do {
         let wallet = ethers.Wallet.createRandom();
+        console.log("generating");
         console.log(wallet.address);
         addr = wallet.address;
         seedResult = wallet.mnemonic.phrase;
