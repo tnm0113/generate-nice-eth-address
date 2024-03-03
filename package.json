@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnm0113/generate-nice-eth-address.git"
+    "url": "https://github.com/tnm0113/generate-nice-eth-address.git"
   },
   "keywords": [
     "ethereum",
