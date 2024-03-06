@@ -1,6 +1,6 @@
 {
   "name": "generate-nice-eth-address",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate ethereum address with desired ending string, eg: 6666 or 8888",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tnm0113/generate-nice-eth-address.git"
+    "url": "https://github.com/tnm0113/generate-nice-eth-address"
   },
   "keywords": [
     "ethereum",
